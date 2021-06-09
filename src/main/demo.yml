@@ -1,0 +1,17 @@
+career-levels:
+  intern:
+    ROOT: DEBUG
+  fresher:
+    ROOT: DEBUG
+  junior:
+    ROOT: DEBUG
+  middle:
+    ROOT: DEBUG
+  senior:
+    ROOT: DEBUG
+  team-leader:
+    ROOT: DEBUG
+  technical-leader:
+    ROOT: DEBUG
+  cto:
+    ROOT: DEBUG

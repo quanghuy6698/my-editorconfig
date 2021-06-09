@@ -1,0 +1,12 @@
+<root>
+  <devs>
+    <web-devs>
+      <front-end-devs></front-end-devs>
+      <back-end-devs></back-end-devs>
+    </web-devs>
+    <mobile-devs>
+      <flutter-devs></flutter-devs>
+      <react-native-devs></react-native-devs>
+    </mobile-devs>
+  </devs>
+</root>
